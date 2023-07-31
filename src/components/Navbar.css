@@ -1,0 +1,138 @@
+/* Navbar.css (or add this to your global styles) */
+.navbar {
+  background-color: rgb(61, 66, 207);
+  color: #fff;
+  padding: 1rem;
+}
+
+.navbar-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+}
+
+.navbar-logo img {
+  height: 110px;
+  border-radius: 39px;
+}
+
+.menu-icon {
+  cursor: pointer;
+  display: none;
+}
+
+.menu-icon.open {
+  transform: rotate(90deg);
+}
+
+.nav-menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+
+.nav-item {
+  list-style: none;
+  margin-right: 1rem;
+}
+
+.nav-links {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Media query for responsive design
+@media screen and (max-width: 578px) {
+  .menu-icon {
+    display: block;
+  }
+
+  .nav-menu {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 70px;
+    right: 1rem;
+    width: 100%;
+    background-color: #333;
+    z-index: 1;
+    padding-top: 1rem;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease-in-out;
+  }
+
+  .nav-menu.active {
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  .nav-item {
+    margin: 0.5rem;
+  }
+
+  .navbar-logo img {
+    height: 40px;
+  }
+ */
+  /* Show the toggle button in responsive mode */
+  
+  /* .navbar-container span {
+    color: #fff;
+    cursor: pointer;
+    display: block;
+  }
+} */
+
+/* Media query for responsive design */
+@media screen and (max-width: 900px) {
+  .menu-icon {
+    display: block;
+  }
+
+  .nav-menu {
+
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 95px;
+    padding: 10px;
+    margin-right: 176px;
+    background-color:  #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 1;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease-in-out;
+    width: 41%; /* Adjust the width to your preference */
+    border-radius: 10px; /* Adjust the border radius to make it look better */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add a subtle shadow for depth */
+    align-items: flex-start;
+    justify-content: center;
+  }
+  .nav-links {
+    font-size: 1rem; 
+    font-family: 'Arial', sans-serif;
+    font-weight:600;
+    margin: 0.5rem;
+    text-decoration: none;
+    color: #333;
+  }
+
+  .nav-links:hover {
+    color: #555; /* Change the link color on hover */
+  }
+  .nav-menu.active {
+    opacity: 1;
+    pointer-events: auto;
+  }
+  .navbar-container span {
+    color: #fff;
+    cursor: pointer;
+    display: block;
+  }
+}
