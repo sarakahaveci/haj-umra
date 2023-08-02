@@ -1,0 +1,64 @@
+/* Tours.css */
+
+.booking-section {
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+
+.booking-section h2 {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.booking-section p {
+  margin-bottom: 20px;
+}
+
+/* Create a 3x3 grid */
+.tour-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+/* Style individual columns */
+.tour-column {
+  background-color: #fff;
+  padding: 20px;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+.tour-column img {
+  width: 100%;
+  max-height: 200px;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+/* Tours.css */
+
+.tour-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.all-tours-button {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.all-tours-link {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.3s, border-radius 0.3s;
+}
+
+.all-tours-link:hover {
+  background-color: #0056b3; /* New hover background color */
+  border-radius: 10px; /* Increased border radius on hover */
+}

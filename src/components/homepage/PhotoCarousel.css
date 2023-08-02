@@ -1,0 +1,35 @@
+/* PhotoCarousel.css */
+
+/* Style the carousel container */
+.carousel-container {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0px;
+  overflow: hidden;
+}
+
+/* Style carousel images */
+.carousel img {
+    border-radius: 10px;
+   max-width: 100%;   
+     height: 580px;      /* Maintain aspect ratio */
+  object-fit: cover;
+  margin: 0;
+  padding: 0; /* Maintain image proportions and cover container */
+}
+
+/* Style carousel indicators (optional) */
+.carousel .control-dots {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.carousel .dot {
+  width: 10px;
+  height: 10px;
+  background-color: #ccc;
+  border-radius: 50%;
+  margin: 0 5px;
+  cursor: pointer;
+}

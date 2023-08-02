@@ -1,0 +1,49 @@
+/* HajUmra.css */
+
+.haj-umra-section {
+    text-align: center;
+    margin: 40px 0;
+  }
+  
+  .haj-umra-grid {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .haj-umra-link {
+    flex: 1;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .haj-umra-column {
+    padding: 10px;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .haj-umra-column:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .haj-umra-column img {
+    max-width: 100%;
+    border-radius: 10px 10px 0 0;
+  }
+  
+  .haj-umra-column p {
+    margin: 10px 0;
+  }
+  
+  /* Optional: Center the text in each column */
+  .haj-umra-column p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+  }
+  
