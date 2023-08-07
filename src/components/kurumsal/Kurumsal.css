@@ -1,0 +1,22 @@
+/* Aboutus.css */
+
+.kurumsal-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  .kurumsal-container h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #555;
+  }
+  
+  .kurumsal-container p {
+    font-size: 16px;
+    margin-bottom: 15px;
+    line-height: 1.5;
+  }
+  

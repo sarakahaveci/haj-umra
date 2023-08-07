@@ -1,0 +1,20 @@
+/* AboutUs.css */
+
+.about-us-page {
+  text-align: center;
+  padding: 50px;
+}
+
+.about-us-title {
+  font-size: 24px;
+  color: #333;
+  font-family: 'Arial', sans-serif;
+  margin-bottom: 20px;
+}
+
+.about-us-description {
+  font-size: 16px;
+  color: #666;
+  font-family: 'Arial', sans-serif;
+  margin-bottom: 20px;
+}

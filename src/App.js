@@ -11,20 +11,25 @@ import HajUmra from './components/homepage/HajUmra';
 import HajUmraDetails from './components/homepage/HajUmraDetails';
 import GallerySection from'./components/homepage/GallerySection';
 import Footer from './components/footer/Footer';
-
+import Kurumsal from './components/kurumsal/Kurumsal';
+import Haj from './components/services/Haj';
+import Umra from './components/services/Umra'
 const App = () => {
   return (
    <>
     <Navbar/>
       <Routes>
         <Route exact path="/" element={<Home/>} />
+        <Route path='/kurumsal' element={<Kurumsal/>}/>
         <Route path="/aboutus" element={<Aboutus/>} />
         <Route path="/services" element={<Services/>} />
         <Route path="/contactus" element={<Contactus/>} />
-        <Route path="/tours/:tourId" component={TourDetails} />
+        <Route path="/tours/:tourId" element={<TourDetails/>} />
         <Route path="/hajumra" element={<HajUmra />} />
-        <Route path="/hajumra/:packageId" component={HajUmraDetails} />
+        <Route path="/hajumra/:packageId" element={<HajUmraDetails/>} />
         <Route path="/gallery/:photoId" element={<GallerySection />} />
+        <Route path="/haj" element={<Haj/>} /> 
+        <Route path="/umra" element={<Umra/>} />
       </Routes>
       <Footer />
       </>
