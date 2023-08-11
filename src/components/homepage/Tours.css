@@ -17,7 +17,7 @@
 /* Create a 3x3 grid */
 .tour-grid {
   display: grid;
-  grid-template-columns: repeat(1, 1fr); /* Change to a single column on smaller screens */
+  grid-template-columns: repeat(3, 1fr); /* Change to a single column on smaller screens */
   gap: 20px;
 }
 

@@ -43,7 +43,7 @@ const Navbar = () => {
         <ul className="nav-menu">
   <li className="nav-item">
     <Link to="/" className="nav-links" onClick={() => setIsNavOpen(false)}>
-      Home
+      Anasayfa
     </Link>
   </li>
   <li className="nav-item">
@@ -52,18 +52,23 @@ const Navbar = () => {
     </Link>
   </li>
   <li className="nav-item">
+  <Link to="/gallery" className="nav-links" onClick={() => setIsNavOpen(false)}>
+  Gallery
+  </Link>
+</li>
+  <li className="nav-item">
     <Link to="/aboutus" className="nav-links" onClick={() => setIsNavOpen(false)}>
-      About Us
+    Hakkımızda
     </Link>
   </li>
   <li className="nav-item">
     <Link to="/services" className="nav-links" onClick={() => setIsNavOpen(false)}>
-      Our Services
+    Hizmetlerimiz
     </Link>
   </li>
   <li className="nav-item">
     <Link to="/contactus" className="nav-links" onClick={() => setIsNavOpen(false)}>
-      Contact Us
+    İletişim
     </Link>
   </li>
 </ul>

@@ -6,10 +6,9 @@ import './contactus.css'; // Import the shared styles
 const ContactUs = () => {
   return (
     <div className="contact-us-page">
-      <h2 className="contact-us-title">Contact Us</h2>
-      <p className="contact-us-description">
-        For inquiries and assistance, please feel free to reach out to us using the contact information provided below.
-      </p>
+      <h2 className="contact-us-title">Bize Ulaşın</h2>
+      <h4 className="contact-us-description">
+      Sorularınız ve yardım için, lütfen aşağıda verilen iletişim bilgilerini kullanarak bizimle iletişime geçmekten çekinmeyin.      </h4>
       <div className="contact-details">
         <p>Phone: +123 456 7890</p>
         <p>Email: contact@example.com</p>

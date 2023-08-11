@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './Gallery.css'; // Import the styles
+// import './Gallery.css'; // Import the styles
 
 const Gallery = () => {
   const galleryData = [

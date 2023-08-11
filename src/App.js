@@ -9,11 +9,13 @@ import Contactus from './components/contactus/Contactus';
 import TourDetails from './components/homepage/TourDetails';
 import HajUmra from './components/homepage/HajUmra';
 import HajUmraDetails from './components/homepage/HajUmraDetails';
-import GallerySection from'./components/homepage/GallerySection';
 import Footer from './components/footer/Footer';
 import Kurumsal from './components/kurumsal/Kurumsal';
 import Haj from './components/services/Haj';
 import Umra from './components/services/Umra'
+import Gallery from './components/gallery/Gallery'
+import './App.css'
+
 const App = () => {
   return (
    <>
@@ -27,7 +29,7 @@ const App = () => {
         <Route path="/tours/:tourId" element={<TourDetails/>} />
         <Route path="/hajumra" element={<HajUmra />} />
         <Route path="/hajumra/:packageId" element={<HajUmraDetails/>} />
-        <Route path="/gallery/:photoId" element={<GallerySection />} />
+       <Route path="/gallery/" element={<Gallery />} />
         <Route path="/haj" element={<Haj/>} /> 
         <Route path="/umra" element={<Umra/>} />
       </Routes>

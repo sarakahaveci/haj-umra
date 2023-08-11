@@ -3,7 +3,7 @@ import PhotoCarousel from "./PhotoCarousel";
 import Tours from "./Tours";
 import './Homepage.css'
 import HajUmra from "./HajUmra";
-import Gallery from "./Gallery";
+import GalleryHomePage from "./GalleryHomePage";
 
 const Home = () => {
   return (
@@ -18,7 +18,7 @@ const Home = () => {
   </p>
 </div>
 <HajUmra/>
-<Gallery/>
+<GalleryHomePage/>
       </div>
   );
 };
