@@ -1,5 +1,7 @@
 /* ContactUs.css */
-
+.div{
+  height: 10vh;
+}
 .contact-us-page {
     text-align: center;
     padding: 50px;

@@ -12,9 +12,8 @@ import HajUmraDetails from './components/homepage/HajUmraDetails';
 import Footer from './components/footer/Footer';
 import Kurumsal from './components/kurumsal/Kurumsal';
 import Haj from './components/services/Haj';
-import Umra from './components/services/Umra'
-import Gallery from './components/gallery/Gallery'
-import './App.css'
+import Umra from './components/services/Umra';
+import Gallery from './components/gallery/Gallery';
 
 const App = () => {
   return (
