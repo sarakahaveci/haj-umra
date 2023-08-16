@@ -10,7 +10,7 @@ body {
   width: 100%;
   background-color: rgb(61, 66, 207);
   color: #fff;
-  padding: 15px 0;
+  padding: 20px 0px 0px 10px;
 }
 
 .footer-content {
@@ -77,12 +77,20 @@ body {
 }
 
 .footer-logo {
-  height: 90px;
-  max-width: 150px;
-  margin-left: 73px;
-  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+    height: 90px;
+    max-width: 90px;
+    margin-left: 73px; /* Adjust as needed */
+  }
+  
+.footer-logo img {
+  height: 100%; /* Make the logo the same height as the footer */
+  max-width: 150px; /* Limit the maximum width */
 }
-
 .footer-section h3 {
   font-size: 18px;
   margin-bottom: 10px;

@@ -6,7 +6,9 @@ import logo from '../images/logo.jpeg'; // Import the logo image
 
 const Footer = () => {
   return (
+   
     <footer className="footer">
+    <div className='footer-container'>
       <div className="footer-content">
         <div className="footer-section">
           <img src={logo} alt="Company Logo" className="footer-logo" />
@@ -29,7 +31,9 @@ const Footer = () => {
       <div className="footer-bottom">
         <p>&copy; 2023 Your Company. All Rights Reserved.</p>
       </div>
+      </div>
     </footer>
+    
   );
 };
 
