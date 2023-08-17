@@ -17,6 +17,8 @@ const ContactUs = () => {
         <p>📞 : 0532 772 51 80   ✉️ : info@alharamaintur.com</p>
         <p>📍 : Akşemseddin Mahallesi / Akdeniz Caddesi / No : 48/1 Nur apartmanı, FATİH / İSTANBUL</p>
       </div>
+      <div className='div' style={{
+        height: '53vh'}}></div>
     </div>
   );
 }

@@ -9,6 +9,8 @@ const Haj = () => {
       <h2 className="services-title">Haj</h2>
       <p className="services-description">Welcome to our Haj services page. We offer comprehensive Haj packages to make your pilgrimage a meaningful and memorable experience.</p>
       {/* Add more content here */}
+      <div className='div' style={{
+        height: '40vh'}}></div>
     </div>
   );
 }

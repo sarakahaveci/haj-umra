@@ -18,6 +18,8 @@ const Services = () => {
           <p>Experience the spiritual journey of Umra with our dedicated and well-organized Umra packages.</p>
         </div>
       </Link>
+      <div className='div' style={{
+        height: '23vh'}}></div>
     </div>
   );
 }
