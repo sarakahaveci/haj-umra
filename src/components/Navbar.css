@@ -2,7 +2,6 @@
 
 .navbar {
   background-color: rgb(61, 66, 207);
-  height: 100px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -10,6 +9,7 @@
   top: 0;
   z-index: 999;
 }
+
 
 .navbar-container {
   width: 90%;
@@ -28,10 +28,11 @@
 }
 
 .navbar-logo img {
-  max-width: 90px;
-  height: 90px;
+  max-width: 90px; /* Adjust the maximum width as needed */
+  height: auto; /* Let the height adjust proportionally */
   margin-right: 10px;
 }
+
 
 .menu-icon {
   display: none;

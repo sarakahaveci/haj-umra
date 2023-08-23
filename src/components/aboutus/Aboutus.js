@@ -17,7 +17,7 @@ const AboutUs = () => {
         Al-Haramain Tur çalışanları; Firmamızda müşteriler için ve müşteriler sayesinde var olduğunu bilir. Müşterilerin, kendilerini değerli hissetmek istediğini bilir. Müşterileri tanımak, müşterilerin özelliklerini, ihtiyaç ve beklentilerini anlamak için çaba gösterir. Müşterileri ile uzun vadeli, her iki taraf açısından da adil ve kazandıran bir ilişki kurmayı hedefler.
       </p>
       <div className='div' style={{
-        height: '21vh'}}></div>
+        height: '29vh'}}></div>
     </div>
   );
 }
