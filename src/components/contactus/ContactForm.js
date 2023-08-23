@@ -6,12 +6,13 @@ import './ContactForm.css'; // Import the form styling
 const ContactForm = () => {
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
+  const [phone, setPhone] = useState(''); // New state for phone number
   const [message, setMessage] = useState('');
 
   const handleSubmit = async (e) => {
     e.preventDefault();
   
-    console.log('Form data:', name, email, message);
+    console.log('Form data:', name, email, phone, message);
     // Replace with your own EmailJS service configuration
     const serviceID = 'service_ohcltqa';
     const templateID = 'template_9r3taa2';
@@ -23,6 +24,7 @@ const ContactForm = () => {
       await emailjs.send(serviceID, templateID, {
         from_name: name,
         reply_to: email,
+        phone: phone,
         message: message,
       }, userID);
 
@@ -34,6 +36,7 @@ const ContactForm = () => {
     // Clear form fields
     setName('');
     setEmail('');
+    setPhone('');
     setMessage('');
   };
 
@@ -51,6 +54,12 @@ const ContactForm = () => {
         value={email}
         onChange={(e) => setEmail(e.target.value)}
       />
+      <input
+      type="tel" // Use "tel" input type for phone numbers
+      placeholder="Your Phone Number"
+      value={phone}
+      onChange={(e) => setPhone(e.target.value)}
+    />
       <textarea
         placeholder="Your Message"
         value={message}
