@@ -40,7 +40,7 @@ const Navbar = () => {
             <i className="fas fa-bars"></i>
           </div>
         )}
-        <ul className="nav-menu">
+        <ul className={`nav-menu ${isNavOpen ? "active" : ""}`}>
   <li className="nav-item">
     <Link to="/" className="nav-links" onClick={() => setIsNavOpen(false)}>
       Anasayfa
