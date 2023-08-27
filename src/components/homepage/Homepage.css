@@ -18,7 +18,6 @@
     color: #fff; /* Blue color for heading */
   }
   
- 
 .promo-text {
   text-align: center;
   margin: 40px 0;
@@ -31,39 +30,29 @@
   flex-direction: column;
   align-items: center;
 }
-.video-container {
-  display: flex;
-  justify-content:center ;
-  /* justify-content: space-between; */
-  align-items: center; /* Center content verticall*/
-    margin: 160px 0px 30px 50px;
-}
-
-.youtube-video {
-  flex: 1; /* Expand to fill available space */
-  margin: 0 5px; /* Add horizontal margin */
-}
-  
-/* Update the layout for smaller screens */
-@media screen and (max-width: 900px) {
-  .promo-text {
-      flex-direction: row; /* Display items horizontally */
-      flex-wrap: wrap;
-      justify-content: center; /* Center items horizontally */
-  }
-}
 
 .promo-text h3 {
   font-size: 24px;
   margin-bottom: 10px;
   color: #fff; /* Blue color for heading */
-  flex-basis: 100%; /* Take full width on smaller screens */
 }
 
 .promo-text p {
   font-size: 18px;
   line-height: 1.5;
   color: #fff; /* Dark gray color for paragraph */
-  flex-basis: 100%; /* Take full width on smaller screens */
   margin: 10px 0;
+}
+.video-container{
+  margin: 25px;
+}
+.gallery-grid {
+  margin-bottom: 150px;
+}
+/* Update the layout for smaller screens */
+@media screen and (max-width: 900px) {
+  .promo-text {
+    flex-direction: column; /* Display items vertically */
+    align-items: center; /* Center items horizontally */
+  }
 }

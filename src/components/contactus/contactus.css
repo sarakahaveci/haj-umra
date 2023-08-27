@@ -85,3 +85,39 @@
     margin-top: 15px;
   }
 }
+/* ContactUs.css */
+/* ... Existing styles ... */
+
+/* Responsive Styles */
+@media screen and (max-width: 768px) {
+  .div{
+    display: none;
+  }
+  .contact-us-page {
+    padding: 10% 5%;
+    display: flex;
+    flex-direction: column; /* Stack elements above each other */
+    align-items: center; /* Center items horizontally */
+  }
+  
+  .contact-form-container {
+    width: 100%; /* Take full width */
+    margin-bottom: 20px; /* Add space between form and contact details */
+  }
+  
+  .contact-us-title {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-us-description {
+    font-size: 14px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  
+  .contact-details {
+    font-size: 14px;
+    text-align: center; /* Center contact details text */
+  }
+}

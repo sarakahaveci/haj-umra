@@ -43,4 +43,86 @@ h2{
   color: #666;
   font-family: 'Arial', sans-serif;
 }
+.umra-table {
+  border-collapse: collapse;
+  width: 80%; /* Set a smaller width value */
+  margin: 0 auto;
+}
 
+.umra-table th,
+.umra-table td {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
+
+.umra-table th {
+  background-color: rgb(76, 76, 76);
+  color: #fff;
+}
+
+.umra-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.umra-table tr:nth-child(odd) {
+  background-color: #ffffff;
+}
+
+.umra-meal-info {
+  font-weight: bold;
+  color: #555;
+  padding: 10px;
+  display: inline-block;
+  background-color: rgb(61, 66, 207);
+  color: #fff;
+}
+
+.umra-sentence {
+  font-weight: bold;
+  color: #555;
+  padding: 10px;
+  display: inline-block;
+}
+
+.mekke-sentence {
+  background-color: rgb(87, 87, 89);
+  color: #fff;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.medine-sentence {
+  background-color: rgb(207, 61, 61);
+  color: #fff;
+  padding: 10px;
+}
+.sentence-container {
+  display: flex;
+  justify-content: center; 
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #fff;
+  padding: 10px;
+  width: 80%;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.sentence-container p {
+  margin: 0; /* Remove the default margin of paragraphs */
+}
+/* ... Existing styles ... */
+
+@media (max-width: 768px) {
+  .umra-table th,
+  .umra-table td {
+    padding: 6px;
+  }
+  .umra-table th {
+    font-size: 14px;
+  }
+  .umra-table td {
+    font-size: 12px;
+  }
+}
