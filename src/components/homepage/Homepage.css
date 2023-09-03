@@ -49,7 +49,7 @@
 .gallery-grid {
   margin-bottom: 150px;
 }
-/* Update the layout for smaller screens */
+/* Services.css */
 @media screen and (max-width: 900px) {
   .promo-text {
     flex-direction: column; /* Display items vertically */
