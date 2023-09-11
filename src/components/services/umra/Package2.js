@@ -120,7 +120,7 @@ const Package2 = () => {
         nimet de sana mahsustur. Mülk senindir. Senin şerikin yoktur.”
       </p>
       <h2>İhramdan Sonra:</h2>
-      <span>
+      <p>
         * Niyet edip telbiye getirince artık ihramlı sayılırsınız. Bu andan
         itibaren ihram yasaklarına dikkat ediniz.
         <br />
@@ -131,79 +131,97 @@ const Package2 = () => {
         * Telbiyeleri her seferinde üçer defa getirmeyi tercih ediniz. Tekbir,
         tehlil ve salevat-ı şerife söylemeyi de ihmal etmeyiniz.
         <br />
-      </span>
+      </p>
       <h2>Mekke-i Mükerreme’ye Varınca:</h2>
-      <span>
-        * Mekke’ye ulaşınca yeniden kendinize çeki düzen veriniz. Guslediniz
-        veya abdest alınız. * Beytullah’a doğru telbiye, tekbir ve tehlil ile
-        yöneliniz. * Bu esnalarda her zamankinden daha fedakarca mü’min
+      <p>
+        * Mekke’ye ulaşınca yeniden kendinize çeki düzen veriniz. Guslediniz 
+        veya abdest alınız. <br/>
+        * Beytullah’a doğru telbiye, tekbir ve tehlil ile 
+        yöneliniz. <br/>
+         * Bu esnalarda her zamankinden daha fedakarca mü’min
         kardeşlerinizle yardımlaşınız. Hakkı tavsiyeleşiniz. Onları rencide
-        etmeyiniz. * Yolculuğun meşakkatleri ve yorgunluk eserleri üzerinizde
-        olsa bile, huysuzluktan ve başkalarıyla cedelleşmekten sakınınız. *
-        Beytullah’ı ilk görüşe, bedenen ve manen hazırlıklı olunuz. Varınca
+        etmeyiniz. <br/>
+         * Yolculuğun meşakkatleri ve yorgunluk eserleri üzerinizde
+        olsa bile, huysuzluktan ve başkalarıyla cedelleşmekten sakınınız.<br/>
+         * Beytullah’ı ilk görüşe, bedenen ve manen hazırlıklı olunuz. Varınca
         samimi duygular içinde dua ediniz.
-      </span>
+      </p>
       <h2>* Tavafa hazırlanınız.</h2>
-      <span>Erkekler ridalarının sağ ucunu, omuz arkasından getirerek sağ koltuklarının altından geçirir, sol omuzun üstünden arkaya sarkıtırlar. Böylece sağ omuz açıkta kalır.
+      <p>Erkekler ridalarının sağ ucunu, omuz arkasından getirerek sağ koltuklarının altından geçirir,<br/>
+       sol omuzun üstünden arkaya sarkıtırlar. Böylece sağ omuz açıkta kalır.
 
-      Buna “ıztıbâ” denir ki; arkasında say olan tavafın sünnetidir. Ve tavaf boyunca devam eder. Tavafı bitirince omuzunuzu örtünüz. Omuz açık namaz kılmak mekruhtur.
+      Buna “ıztıbâ” denir ki; arkasında say olan tavafın sünnetidir. Ve tavaf boyunca devam eder.<br/>
+       Tavafı bitirince omuzunuzu örtünüz. Omuz açık namaz kılmak mekruhtur.
       
-      * Sonra tavaf için “Hacerü'l-Esved”in bulunduğu köşeye yöneliniz.
+      * Sonra tavaf için “Hacerü'l-Esved”in bulunduğu köşeye yöneliniz.<br/>
       
-      * Yapacağınız bu tavaf “umre tavafı”dır. Niyet ediniz ve Hacerü’l-Esved’i istilâm ile tavafa başlayınız.
+      * Yapacağınız bu tavaf “umre tavafı”dır. Niyet ediniz ve Hacerü’l-Esved’i istilâm ile tavafa başlayınız.<br/>
       
-      İstîlâm: Hacerü’l-Esved’e el dokunmak demektir. Uzaktan işaret de onun yerini alır. İki eli, iç kısmı Hacerü'l-Esved'e dönük olarak kaldırarak ve “Bismillahi Allahu Ekber” diyerek yapılır.
+      İstîlâm: Hacerü’l-Esved’e el dokunmak demektir. Uzaktan işaret de onun yerini alır. İki eli,<br/>
+       iç kısmı Hacerü'l-Esved'e dönük olarak kaldırarak ve “Bismillahi Allahu Ekber” diyerek yapılır.<br/>
       
-      Tavaf 7 şavttır. Her şavt, Hacerü’l-Esved’de başlar ve Hacerü’l-Esved’de biter.
+      Tavaf 7 şavttır. Her şavt, Hacerü’l-Esved’de başlar ve Hacerü’l-Esved’de biter.<br/>
       
-      Tavafın ilk üç şavtında “remel” yapınız.
+      Tavafın ilk üç şavtında “remel” yapınız.<br/>
       
-      Remel: Kısa adımlarla, hafif koşar vaziyette omuzları silkeleyerek, çalımlıca yürümektir. Hanımlar remel yapmazlar.
+      Remel: Kısa adımlarla, hafif koşar vaziyette omuzları silkeleyerek, çalımlıca yürümektir. Hanımlar remel yapmazlar.<br/>
       
-      * Tavafı bitirince iki rekat tavaf namazı kılınız. Bu namaz vacibtir. Kerahet vaktinde iseniz sonraya bırakarak kamil bir vakitte eda ediniz.
+      * Tavafı bitirince iki rekat tavaf namazı kılınız. Bu namaz vacibtir. Kerahet vaktinde iseniz sonraya bırakarak kamil bir vakitte <br/>
+       eda ediniz.
       
-      * Sonra bol bol zemzem içiniz ve bedeninize dökünüz.
+      * Sonra bol bol zemzem içiniz ve bedeninize dökünüz.<br/>
       
       * Safâ’ya yönelirken Hacerü'l-Esved’e geliniz ve istilam ederek ayrılınız. Sünnettendir.
       
-      Tekbir, tehlil getiriniz hamdediniz, salavât getiriniz.
+      Tekbir, tehlil getiriniz hamdediniz, salavât getiriniz.<br/>
       
       * Safâ’ya varınız. Yapacağınız sa'y “umre sa'yı”dır. Bu niyetle sa'y ediniz.
       
-      * İki yeşil direk arasında “hervele” yapınız.
+      * İki yeşil direk arasında “hervele” yapınız.<br/>
       
-      Hervele: Süratlice koşunun adıdır. Remelden farklıdır, ondan daha hızlıdır. Ancak müslümanın vakarını zedeleyecek şekilde var güçle koşmamalıdır.
+      Hervele: Süratlice koşunun adıdır. Remelden farklıdır, ondan daha hızlıdır. <br/>
+      Ancak müslümanın vakarını zedeleyecek şekilde var güçle koşmamalıdır.
       
-      Hervele sa’yın her şavtının sünnetidir. Hanımlar hervele yapmazlar.
+      Hervele sa’yın her şavtının sünnetidir. Hanımlar hervele yapmazlar.<br/>
       
-      Sa’y 7 şavttır. Safâ’dan başlayıp, Merve’de biten yürüyüş bir şavttır. Merve’den Safâ’ya dönüş ikinci şavttır. Böylece devam eden sa’y, Safâ’dan başlamış, Merve’de bitmiş olur.
+      Sa’y 7 şavttır. Safâ’dan başlayıp, Merve’de biten yürüyüş bir şavttır. <br/>
+      Merve’den Safâ’ya dönüş ikinci şavttır. Böylece devam eden sa’y, Safâ’dan başlamış,<br/>
+       Merve’de bitmiş olur.
       
       Başka bir deyişle sa'y, Safâ’dan Merve’ye 4 gidiş, Merve’den Safâ’ya 3 dönüş olmak üzere 7 şavttır.
       
       *Sa’ydan sonra saçınızı traş edip ihramdan çıkınız. Böylece Umreniz tamamlanmış olur.
-      </span>
+      </p>
       <h2>
       Saç traşı iki türlü olur:
       </h2>
-      <span>Halk: Saçın tamamını dipten traş etmektir. Bu daha efdaldir.
+      <p>Halk: Saçın tamamını dipten traş etmektir. Bu daha efdaldir.<br/>
 
-      Taksir: Başın üçte biri veya dörtte birinden “ünmüle miktarı” (parmağın üç boğumundan en uçtakinin uzunluğunda) kesmektir.
+      Taksir: Başın üçte biri veya dörtte birinden “ünmüle miktarı” (parmağın üç boğumundan en uçtakinin uzunluğunda) kesmektir.<br/>
       
-      Başın bir tarafını usturaya vurup öbür yanlarını bırakmak, sadece kahkül bırakmak gibi müslüman vakarını zedeleyici tarzdaki traşlar mekruhtur.
+      Başın bir tarafını usturaya vurup öbür yanlarını bırakmak, <br/>sadece kahkül bırakmak gibi müslüman vakarını zedeleyici tarzdaki
+       traşlar mekruhtur.
       
-      Saçlarının uzunluğu “ünmüle” miktarından küçük olanlar taksir yapamazlar, halk yapmak zorundadırlar. Hanımlar sadece taksir yaparlar. Halk yapmaları tahrimen mekruh görülmüştür.
+      Saçlarının uzunluğu “ünmüle” miktarından küçük olanlar taksir yapamazlar,
+      <br/> halk yapmak zorundadırlar. Hanımlar sadece taksir yaparlar.<br/>
+       Halk yapmaları tahrimen mekruh görülmüştür.
+       <br/>
+      Traş olduğunuz andan itibaren bütün ihram yasakları kalkmıştır. Umreniz tamamlanmıştır. Mekke’de bir Mekkeli gibi dolaşır,<br/>
+       nafile tavaf yapar, ibadet ve duâlarla vaktinizi değerlendirebilirsiniz. Uzak diyardan gelen kimse için Beytullah’ın <br/>
+       huzurunda sık bulunma imkânı kolay değildir. İçinde bulunduğu anların kıymetini bilip, hakkını eda etme, gerçek bir nimettir.
       
-      Traş olduğunuz andan itibaren bütün ihram yasakları kalkmıştır. Umreniz tamamlanmıştır. Mekke’de bir Mekkeli gibi dolaşır, nafile tavaf yapar, ibadet ve duâlarla vaktinizi değerlendirebilirsiniz. Uzak diyardan gelen kimse için Beytullah’ın huzurunda sık bulunma imkânı kolay değildir. İçinde bulunduğu anların kıymetini bilip, hakkını eda etme, gerçek bir nimettir.
+      Mekkeli veya Mekkeli hükmünde olanların umre için mikat yeri harem hudutlarının dışıdır. Mekke harem hududu dışına çıkarak<br/>
+       yeni umreler yapabilirsiniz.
       
-      Mekkeli veya Mekkeli hükmünde olanların umre için mikat yeri harem hudutlarının dışıdır. Mekke harem hududu dışına çıkarak yeni umreler yapabilirsiniz.
+      Harem hududu dışından ihrama girmek için "Ten'im" veya "Ci'râne"yi tercih etmeniz daha efdaldir. Zira Ten'im,<br/>
+       Rasûlullah'ın (sav) emriyle Âişe Vâlidemizin ihrama girdiği yerdir.
       
-      Harem hududu dışından ihrama girmek için "Ten'im" veya "Ci'râne"yi tercih etmeniz daha efdaldir. Zira Ten'im, Rasûlullah'ın (sav) emriyle Âişe Vâlidemizin ihrama girdiği yerdir.
+      Ci'râne ise Rasûlullah (sav) Efendimiz'in Huneyn Gazvesi ve Tâif Seferinin arkasından kendilerinin ihrama girdiği mekandır.<br/>
       
-      Ci'râne ise Rasûlullah (sav) Efendimiz'in Huneyn Gazvesi ve Tâif Seferinin arkasından kendilerinin ihrama girdiği mekandır.
+      Efdaliyet olmamakla beraber başka "hıll" noktalarından da ihrama girilir.<br/>
+       Arafat, Hudeybiye, Cidde gibi… / KAYNAK: Dr. M.Şerafeddin KALAY / Umre Rehberi<br/>
       
-      Efdaliyet olmamakla beraber başka "hıll" noktalarından da ihrama girilir. Arafat, Hudeybiye, Cidde gibi… / KAYNAK: Dr. M.Şerafeddin KALAY / Umre Rehberi
-      
-      </span>
+      </p>
     </div>
   );
 };
