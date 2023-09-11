@@ -1,7 +1,7 @@
 // Umra.js
 
 import React from "react";
-import "./Services.css"; // Import the shared styles
+import "../Services.css"; // Import the shared styles
 
 const Umra = () => {
   return (
