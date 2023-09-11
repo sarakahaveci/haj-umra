@@ -121,7 +121,7 @@ const Navbar = () => {
     </li>
     <li>
       <Link to="/umra/package2" onClick={() => setIsNavOpen(false)}>
-        Umra Package 2
+      Umre ve Edâ Şekli
       </Link>
     </li>
     <li>
