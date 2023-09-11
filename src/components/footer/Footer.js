@@ -14,17 +14,19 @@ const Footer = () => {
           <img src={logo} alt="Company Logo" className="footer-logo" />
         </div>
         <div className="footer-section">
-          <h3>Contact Us</h3>
-          <p>Phone: +123 456 7890</p>
-          <p>Email: contact@example.com</p>
+          <h3>İletişim </h3>
+          <p>📞: : 0532 772 51 80 </p>
+          <p>  ✉️ : info@alharamaintur.com</p>
+          <p>📍 : Akşemseddin Mahallesi / Akdeniz Caddesi /<br/> No : 48/1  Nur apartmanı, FATİH / İSTANBUL</p>
         </div>
         <div className="footer-section">
-          <h3>Links</h3>
+          <h3>Bağlantılar</h3>
           <ul className="footer-links">
-            <li><a href="/">Home</a></li>
-            <li><a href="/aboutus">About Us</a></li>
-            <li><a href="/services">Services</a></li>
-            <li><a href="/contactus">Contact Us</a></li>
+            <li><a href="/">Anasayfa</a></li>
+            <li><a href="/kurumsal">Kurumsal</a></li>
+            <li><a href="/aboutus">Hakkımızda</a></li>
+            <li><a href="/services">Hizmetlerimiz</a></li>
+            <li><a href="/contactus">İletişim</a></li>
           </ul>
         </div>
       </div>
