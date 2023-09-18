@@ -2,7 +2,8 @@
 
 import React from 'react';
 import './Footer.css'; // Import the styles
-import logo from '../images/logo.jpeg'; // Import the logo image
+import logo from '../images/logo.jpeg';
+import { Link } from 'react-router-dom'; // Import the logo image
 
 const Footer = () => {
   return (
@@ -23,7 +24,8 @@ const Footer = () => {
           <h3>Bağlantılar</h3>
           <ul className="footer-links">
             <li><a href="/">Anasayfa</a></li>
-            <li><a href="/kurumsal">Kurumsal</a></li>
+            <li><a href="/kurumsal">kurumsal</a></li>
+            <li><a href="/gallery">Gallery</a></li>
             <li><a href="/aboutus">Hakkımızda</a></li>
             <li><a href="/services">Hizmetlerimiz</a></li>
             <li><a href="/contactus">İletişim</a></li>
